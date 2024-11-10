@@ -28,11 +28,15 @@ step 1.xfce goodies packages for the default xfce plugins and widgets.
            Four panels are being used here.
            So use the Panel profiles app to good measure
 step 2. May or may not need htop, cava and cmus(Terminal based programs.. The panel has them )
+
 step 3. Panel profiles app to load the panelprofile without much fuss. 
+
 step 4. Themes(ICON and gtk)
  ICONS: Fluent-dark(https://github.com/vinceliuice/Fluent-icon-theme)
  GTK: Modified Simpy Circles(shared here above in method 1)
  Custom: Whisker menu icon (also shared in the folder above(WhiskemnuCIon.... add manually from the properties menu of Whisker menu via rightclick))
+ For Window Decorations use the Borderlesstheme using your Window Manager app on xfce.
+ 
  fonts used: 1. Exo 2. Terminus for date and time. 
  
  step 5. Copy the gtk3.css to ~/.config/gtk-3.0 folder.
