@@ -1,1 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Circles Light Envolved
+Comment=GTK Theme to use with Simply Circles Icon Theme
+Encoding=UTF-8
 
+[X-GNOME-Metatheme]
+Name=Simply Circles Light Envolved
+GtkTheme=Simply_Circles_Light_Envolved
+MetacityTheme=Simply_Circles_Light
+IconTheme=Simply-Black-Circles
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close
