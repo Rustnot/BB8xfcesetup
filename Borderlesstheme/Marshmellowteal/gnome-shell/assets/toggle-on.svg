@@ -1,0 +1,16 @@
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" width="48" height="26" viewBox="0 0 48 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #21bd91;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>toggle-on</title>
+  <path id="Dikdörtgen_1" data-name="Dikdörtgen 1" class="cls-1" d="M13,0H35A13,13,0,0,1,48,13h0A13,13,0,0,1,35,26H13A13,13,0,0,1,0,13H0A13,13,0,0,1,13,0Z"/>
+  <circle id="Elips_2" data-name="Elips 2" class="cls-2" cx="34" cy="13" r="11"/>
+</svg>
