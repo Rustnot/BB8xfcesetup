@@ -1,3 +1,20 @@
+
+
+
+
+
+https://github.com/user-attachments/assets/b8114a33-7064-4689-b47c-f8bd302e4aa5
+
+
+
+
+
+
+
+
+
+
+
 # BB8xfcesetup
 
 Not responsible if it breaks your system. 
