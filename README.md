@@ -19,6 +19,7 @@ https://github.com/user-attachments/assets/b8114a33-7064-4689-b47c-f8bd302e4aa5
 Wallpaper Thanks to:https://www.reddit.com/r/midjourney/comments/1fw53jb/disc_jockey/
 
 Not responsible if it breaks your system. 
+BACKUP everything before making any changes. 
 
 REQUIREMENTS & INSTALLATION
 (Use the animations and the menu styles in the video with other dark themes) Skip 1 to 4 if already have these things installed...
@@ -45,3 +46,4 @@ step 4. Themes(ICON and gtk)
  
 
 IMPORTANT: YOu can also disable tooltips systemwide by uncommenting the tooltips section in your ~/.config/gtk-3.0/gtk.css file manually.
+To Disable the themes menu for thunar uncomment the Menu section in the gtk.css
