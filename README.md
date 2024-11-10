@@ -16,6 +16,7 @@ https://github.com/user-attachments/assets/b8114a33-7064-4689-b47c-f8bd302e4aa5
 
 
 # BB8xfcesetup
+Wallpaper Thanks to:https://www.reddit.com/r/midjourney/comments/1fw53jb/disc_jockey/
 
 Not responsible if it breaks your system. 
 
