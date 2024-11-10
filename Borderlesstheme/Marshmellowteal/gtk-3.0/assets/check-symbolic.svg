@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="bullet-symbolic.svg"
+   sodipodi:docname="check-symbolic.svg"
    inkscape:export-filename="/home/sam/dev/RESOURCES/gnome-icon-theme-symbolic/src/gnome-stencils.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -37,8 +37,8 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="3.2191062"
-     inkscape:cy="5.5864571"
+     inkscape:cx="1.3837293"
+     inkscape:cy="4.949571"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -50,7 +50,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="true"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="false"
@@ -59,23 +59,23 @@
      inkscape:snap-nodes="false"
      inkscape:snap-others="false"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="917"
+     inkscape:window-height="1016"
      inkscape:window-maximized="1"
-     inkscape:window-width="1783"
+     inkscape:window-width="1850"
      inkscape:window-x="70"
      inkscape:window-y="27"
-     inkscape:zoom="22.005438"
+     inkscape:zoom="43.100975"
      inkscape:showpageshadow="false">
     <inkscape:grid
        dotted="false"
        empspacing="2"
        enabled="true"
        id="grid4866"
-       originx="-139.99995"
+       originx="-159.99995"
        originy="120"
        snapvisiblegridlinesonly="true"
-       spacingx="1"
-       spacingy="1"
+       spacingx="1px"
+       spacingy="1px"
        type="xygrid"
        visible="true" />
   </sodipodi:namedview>
@@ -97,59 +97,58 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="status"
-     style="display:inline"
-     transform="translate(-381.00015,-339)">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 388.00015,343.5 c -1.37962,0 -2.5,1.12037 -2.5,2.5 0,1.37962 1.12038,2.5 2.5,2.5 1.37962,0 2.5,-1.12038 2.5,-2.5 0,-1.37963 -1.12038,-2.5 -2.5,-2.5 z"
-       id="path9555"
-       sodipodi:nodetypes="csssc"
-       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4931047;marker:none" />
+     style="display:inline;opacity:1"
+     transform="translate(-401.00015,-339)">
+    <polygon
+       transform="matrix(1.2547306,0,0,1.2547306,398.97548,336.63753)"
+       id="path6712"
+       points="11.050299,4.1734886 11.050299,4.1734486 10.984399,4.2311486 6.2496486,8.3783686 3.4740786,5.9974286 2.6350186,6.9463086 6.2503386,10.750019 11.750009,4.9627786 "
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="devices"
      style="display:inline"
-     transform="translate(-381.00015,-339)" />
+     transform="translate(-401.00015,-339)" />
   <g
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="apps"
-     transform="translate(-381.00015,-339)" />
+     transform="translate(-401.00015,-339)" />
   <g
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="places"
      style="display:inline"
-     transform="translate(-381.00015,-339)" />
+     transform="translate(-401.00015,-339)" />
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="mimetypes"
-     transform="translate(-381.00015,-339)" />
+     transform="translate(-401.00015,-339)" />
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="emblems"
      style="display:inline"
-     transform="translate(-381.00015,-339)" />
+     transform="translate(-401.00015,-339)" />
   <g
      inkscape:groupmode="layer"
      id="g71291"
      inkscape:label="emotes"
      style="display:inline"
-     transform="translate(-381.00015,-339)" />
+     transform="translate(-401.00015,-339)" />
   <g
      inkscape:groupmode="layer"
      id="g4953"
      inkscape:label="categories"
      style="display:inline"
-     transform="translate(-381.00015,-339)" />
+     transform="translate(-401.00015,-339)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="translate(-381.00015,-339)" />
+     transform="translate(-401.00015,-339)" />
 </svg>
