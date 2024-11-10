@@ -44,3 +44,4 @@ step 4. Themes(ICON and gtk)
  xfce4-panel -r or reboot for it too take effect and don't blame me if your system breaks. Please adjust the dimensions and other aspects to your taste. These configs won't may not work properly on you system. Use it at your own discretion. 
  
 
+IMPORTANT: YOu can also disable tooltips systemwide by uncommenting the tooltips section in your ~/.config/gtk-3.0/gtk.css file manually.
